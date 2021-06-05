@@ -1,4 +1,14 @@
-# Trino POC Project
+<h1 align="center">
+  <h4 align="center">Trino POC Project</h4>
+</h1>
+
+<p align="center">
+       <a href="">
+           <img src="https://img.shields.io/npm/l/express.svg?maxAge=2592000&style=flat-square"
+                alt="License">
+         </a>
+    </p>
+
 
 Trino is a distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 
@@ -86,3 +96,6 @@ FROM mysql.accipiter_nisus_core_100_1.meta meta_mysql
 ```
 
 ![federation-query](doc/federation-query-comments.png)
+
+## License
+[Trino POC](https://github.com/Renien/trino-poc) is released under the [MIT](https://opensource.org/licenses/MIT) © [Renien](https://github.com/Renien).
