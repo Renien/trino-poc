@@ -60,7 +60,7 @@ Execute Trino-cli
 ./trino --server localhost:8080 --catalog memsql --schema default
 ```
 
-Once the cli is open query the MySQL
+Once the cli is open query the MariaDB
 ```sql
 SHOW SCHEMAS FROM memsql;
 SHOW TABLES FROM memsql.accipiter_nisus_rnaseq_100_1;
