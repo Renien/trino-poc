@@ -73,7 +73,7 @@ SELECT * FROM memsql.accipiter_nisus_core_100_1.meta;
 ### Trino Coordinator UI
 ![trino-worker](doc/trino-coordinator-ui.png)
 
-## Testing Federation Queries
+## Testing Federated Queries
 
 Trino retrieves data from two different data sources from the same query..
 
