@@ -97,7 +97,7 @@ FROM mysql.accipiter_nisus_core_100_1.meta meta_mysql
 
 ![federation-query](doc/federation-query-comments.png)
 
-Thanks [ensembl](https://m.ensembl.org/info/data/mysql.html) for the public servers 😍
+Thanks [ensembl](https://m.ensembl.org/info/data/mysql.html){:target="_blank"} for the public servers 😍
 
 ## License
 [Trino POC](https://github.com/Renien/trino-poc) is released under the [MIT](https://opensource.org/licenses/MIT) © [Renien](https://github.com/Renien).
